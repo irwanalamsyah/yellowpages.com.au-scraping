@@ -9,8 +9,8 @@
 >`python run.py` 
 >
 > inputan : 
-> ![img_1.png](img_1.png)
+> 
 > 
 > hasilnya : 
-> ![img_2.png](img_2.png)
+> 
 
